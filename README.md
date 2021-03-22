@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jsierrabravo,
+- 👀 My research interests include Optics, Machine Learning, and Medical and Biomedical Image Processing.
+- 🌱 I’m currently learning web development and machine learning.
+- 💞️ I’m looking to collaborate on small web developet projects in order to improve my skills.
+- 📫 How to reach me: juansierrabravo@outlook.com
